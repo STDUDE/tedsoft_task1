@@ -3,10 +3,6 @@ package com.task.domain;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * Created by Antony on 10.07.2016.
- */
-
 @Entity
 @Table(name = "classes")
 public class Classes implements Serializable{

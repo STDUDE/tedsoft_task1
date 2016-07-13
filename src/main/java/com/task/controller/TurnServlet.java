@@ -11,11 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.PrintWriter;
 
-/**
- * Created by Antony on 10.07.2016.
- */
 @WebServlet("/task/turn")
 public class TurnServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

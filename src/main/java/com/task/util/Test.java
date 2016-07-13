@@ -9,9 +9,6 @@ import org.hibernate.Session;
 
 import java.util.List;
 
-/**
- * Created by Antony on 21.04.2016.
- */
 public class Test {
     public static void main(String[] args) {
 

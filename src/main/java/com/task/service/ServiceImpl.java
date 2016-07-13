@@ -6,10 +6,6 @@ import org.hibernate.Session;
 
 import java.util.List;
 
-/**
- * Created by Antony on 11.07.2016.
- */
-
 public class ServiceImpl<T> implements Service<T>{
     final Class<T> typeParameterClass;
 

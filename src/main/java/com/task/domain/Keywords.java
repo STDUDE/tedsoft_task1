@@ -4,10 +4,6 @@ import javax.persistence.*;
 import java.io.Serializable;
 import java.security.Key;
 
-/**
- * Created by Antony on 10.07.2016.
- */
-
 @Entity
 @Table(name = "keywords")
 public class Keywords implements Serializable{
